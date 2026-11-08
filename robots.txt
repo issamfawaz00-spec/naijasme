@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://issamfawaz00-spec.github.io/naijasme/sitemap.xml
